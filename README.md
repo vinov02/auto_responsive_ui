@@ -1,10 +1,10 @@
-# 🚀 auto_responsive_ui
+# auto_responsive_ui
 
 **A smart, adaptive responsive engine for Flutter — not just scaling, but intelligent UI adjustment based on device type and screen size.**
 
 ---
 
-## ✨ Why auto_responsive_ui?
+## Why auto_responsive_ui?
 
 Every Flutter developer faces this problem:
 
@@ -15,11 +15,11 @@ Every Flutter developer faces this problem:
 
 Existing solutions only **scale blindly**.
 
-👉 **auto_responsive_ui solves this with intelligent scaling + device awareness.**
+ **auto_responsive_ui solves this with intelligent scaling + device awareness.**
 
 ---
 
-## 🔥 Key Features
+## Key Features
 
 * 📱 **Device Type Detection**
 
@@ -48,7 +48,7 @@ Existing solutions only **scale blindly**.
 
 ---
 
-## 📦 Installation
+## Installation
 
 Add this to your `pubspec.yaml`:
 
