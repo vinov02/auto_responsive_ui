@@ -165,16 +165,6 @@ Then applies optimized scaling across your UI.
 
 ---
 
-## 📸 Demo (Add your GIF here)
-
-> Tip: Add screenshots of:
->
-> * Small phone
-> * Large phone
-> * Tablet
-
----
-
 ## 🛠️ Roadmap
 
 * [ ] Orientation-aware scaling
