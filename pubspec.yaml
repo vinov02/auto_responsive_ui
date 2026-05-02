@@ -1,6 +1,6 @@
 name: auto_responsive_ui
 description: "Smart responsive scaling engine for Flutter with adaptive layout support."
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/vinov02/auto_responsive_ui.git
 
 environment:

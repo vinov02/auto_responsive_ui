@@ -1,8 +1,4 @@
-## 0.0.3
+## 0.0.4
 
 ### Fixed
-- Added proper MIT LICENSE
-
-### Added
-- Documentation comments for public API
-- Example app demonstrating usage
+- Corrected MIT license to full OSI-compliant version
